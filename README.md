@@ -71,7 +71,7 @@ or
 3. `npm install`
 4. `npm start` 🥳
 
-# Mobile
+# Mobile (React Native)
 
 * To download the project follow the instructions bellow:
 
